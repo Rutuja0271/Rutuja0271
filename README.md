@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Rutuja0271
-- 👀 I’m interested in Programming 
+- 👋 Hi, I’m @Rutuja
+- 👀 I’m Interested in Programming 
 - 🌱 I’m currently learning Computer Engineering
 
 
